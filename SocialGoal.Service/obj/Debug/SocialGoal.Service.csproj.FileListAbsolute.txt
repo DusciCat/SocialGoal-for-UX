@@ -28,3 +28,38 @@ C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\sour
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Service\obj\Debug\SocialGoal.Service.csproj.GenerateResource.Cache
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Service\obj\Debug\SocialGoal.Service.dll
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Service\obj\Debug\SocialGoal.Service.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\AutoMapper.Net4.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Service.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Service.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\PagedList.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Data.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Model.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Web.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\EntityFramework.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.Mvc.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.WebPages.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\AutoMapper.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Core.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Data.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Data.dll.config
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Model.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\SocialGoal.Web.Core.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\PagedList.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\EntityFramework.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.Mvc.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.WebPages.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\AutoMapper.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.csprojAssemblyReference.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.Properties.Resources.resources
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.csproj.GenerateResource.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.csproj.CoreCompileInputs.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.csproj.CopyComplete
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Service\obj\Debug\SocialGoal.Service.pdb

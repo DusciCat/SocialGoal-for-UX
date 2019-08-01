@@ -16,3 +16,23 @@ C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\sour
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Data\obj\Debug\SocialGoal.Data.csprojResolveAssemblyReference.cache
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Data\obj\Debug\SocialGoal.Data.dll
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Data\obj\Debug\SocialGoal.Data.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\SocialGoal.Data.dll.config
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\SocialGoal.Data.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\SocialGoal.Data.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\EntityFramework.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\PagedList.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\SocialGoal.Model.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\SocialGoal.Model.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\EntityFramework.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\bin\Debug\PagedList.xml
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\obj\Debug\SocialGoal.Data.csprojAssemblyReference.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\obj\Debug\SocialGoal.Data.csproj.CoreCompileInputs.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\obj\Debug\SocialGoal.Data.csproj.CopyComplete
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\obj\Debug\SocialGoal.Data.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Data\obj\Debug\SocialGoal.Data.pdb

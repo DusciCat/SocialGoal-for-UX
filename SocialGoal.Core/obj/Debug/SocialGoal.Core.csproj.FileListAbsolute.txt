@@ -3,3 +3,9 @@ C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\sour
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.csprojResolveAssemblyReference.cache
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.dll
 C:\Users\Stanislav.Tikhomirov\Downloads\SocialGoal-master\SocialGoal-master\source\SocialGoal.Core\obj\Debug\SocialGoal.Core.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\bin\Debug\SocialGoal.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\bin\Debug\SocialGoal.Core.pdb
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\obj\Debug\SocialGoal.Core.csprojAssemblyReference.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\obj\Debug\SocialGoal.Core.csproj.CoreCompileInputs.cache
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\obj\Debug\SocialGoal.Core.dll
+C:\Users\vlev\Desktop\New folder\SocialGoal.Core\obj\Debug\SocialGoal.Core.pdb
